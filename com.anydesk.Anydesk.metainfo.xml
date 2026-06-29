@@ -57,7 +57,10 @@
   <categories>
     <category>Network</category>
   </categories>
-
+  <releases>
+    <release version="8.0.3" date="2026-06-23">
+      <description>Bugfix: Fixed a bug that could lead to a crash</description>
+    </release>
   <releases>
     <release version="8.0.2" date="2026-04-01">
       <description></description>
