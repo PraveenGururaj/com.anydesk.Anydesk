@@ -59,6 +59,8 @@
   </categories>
 
   <releases>
+    <release version="8.0.3" date="2026-06-23" description="BugFix: Fixed a bug that could lead to a crash"/>
+    </release>
     <release version="8.0.2" date="2026-04-01">
       <description></description>
     </release>
